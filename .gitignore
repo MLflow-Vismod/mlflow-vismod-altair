@@ -1,6 +1,11 @@
+# MLflow
+mlruns
+mlflow.db
+
 # IDE
 .idea
 scratch.txt
+spec
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
